@@ -4,7 +4,7 @@
 
 A modern full-stack web application for university students to manage their academic life in one place.
 
-![StudyFlow](public/favicon.svg)
+![StudyFlow](image/logo-black.jpeg)
 
 ## Features
 
