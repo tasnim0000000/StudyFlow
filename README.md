@@ -218,8 +218,11 @@ In Supabase Dashboard → **Authentication → Users → Add user**:
 
 | Email | Password | Name (user metadata) |
 |-------|----------|----------------------|
-| tasnimahmed123@gmail.com | Tasnim@123 | Tasnim Ahmed |
-| alex.johnson@university.edu | Alex@123 | Alex Johnson |
+| tasnim@studyflow.app | Tasnim2026! | Tasnim Ahmed |
+| alex@studyflow.app | Alex2026! | Alex Rahman |
+| maria@studyflow.app | Maria2026! | Maria Santos |
+| james@studyflow.app | James2026! | James Okoro |
+| priya@studyflow.app | Priya2026! | Priya Nair |
 | (etc.) | | |
 
 The `handle_new_user` trigger auto-creates a `profiles` row.
