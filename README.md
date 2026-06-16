@@ -81,7 +81,7 @@ Open [http://localhost:5173](http://localhost:5173)
 
 ### Demo Mode Login
 
-When Supabase is not configured, use pre-seeded accounts. See **[DEMO_CREDENTIALS.md](./DEMO_CREDENTIALS.md)** for all emails and passwords.
+When Supabase is not configured, use pre-seeded accounts. See **[DEMO_CREDENTIALS](#studyflow-demo-credentials)** for all emails and passwords.
 
 **Your profile:** `tasnimahmed123@gmail.com` / `Tasnim@123` (30 tasks, multi-semester data)
 
